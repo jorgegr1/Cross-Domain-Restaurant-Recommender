@@ -89,6 +89,15 @@ The forecasting model demonstrated strong fit and stable residual behavior.
 
 ------------
 
+## Business & Analytical Impact
+
+- Demonstrates how user preference modeling can support geographic expansion strategies.
+- Shows how credibility-adjusted scoring prevents misleading recommendations driven by sparse data.
+- Identifies structured customer taste communities for targeted marketing segmentation.
+- Forecasts independent user activity patterns to understand engagement evolution over time.
+
+------------
+
 ## Tech Stack
 
 - Python
@@ -109,10 +118,13 @@ The forecasting model demonstrated strong fit and stable residual behavior.
 - Possible deployment as an interactive web application
 
 ------------
+
 ## Academic Context
 
 This project was developed as part of the Master's in Data Science and Engineering at  
 FEUP – Faculty of Engineering, University of Porto (Portugal).
+
+------------
 
 ### Team
 - Carolina Madaleno
