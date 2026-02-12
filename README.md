@@ -12,6 +12,18 @@ Traditional recommender systems rely on user interactions within a single domain
 
 ------------
 
+## Analytical view
+
+This project emphasizes:
+- Translating user behavior into structured preference models
+- Evaluating model performance using robust statistical metrics
+- Interpreting community structures for segmentation insights
+- Forecasting behavioral trends to support strategic planning
+
+The goal is not only to build models, but to extract interpretable insights that can support business decisions.
+
+------------
+
 ## Methodology
 
 ### 1. Natural Language Processing
@@ -95,6 +107,15 @@ The forecasting model demonstrated strong fit and stable residual behavior.
 - Shows how credibility-adjusted scoring prevents misleading recommendations driven by sparse data.
 - Identifies structured customer taste communities for targeted marketing segmentation.
 - Forecasts independent user activity patterns to understand engagement evolution over time.
+
+------------
+
+## Potential Business Applications
+
+- Supporting restaurant discovery and regional expansion strategies
+- Identifying customer segments based on behavioral similarity
+- Improving recommendation credibility using Bayesian adjustments
+- Forecasting engagement trends to anticipate demand shifts
 
 ------------
 
