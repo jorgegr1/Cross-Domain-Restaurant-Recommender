@@ -152,3 +152,12 @@ FEUP – Faculty of Engineering, University of Porto (Portugal).
 - Jorge Gamonal
 - Ricardo Jorge Correia 
 - Vitor Souza
+  
+------------
+
+## Author
+**Jorge Gamonal Rodríguez**  
+BSc in Data Science & Engineering – University of Oviedo  
+Erasmus+ at FEUP  
+
+LinkedIn: https://linkedin.com/in/jorgegrcs
